@@ -11,11 +11,12 @@ Medicare covers.
 
 ## Files
 - `MedicalEquipmentSuppliers_Project.ipynb` — the full analysis notebook
+- `Medical-Equipment-Suppliers.csv` — the dataset (57,632 suppliers across the US)
 - `README.md` — this file
 
 ## Dataset
-The dataset has 57,632 medical equipment suppliers across the US.
-It is too large to upload here so you can download it directly from CMS:
+The dataset was downloaded from the Centers for Medicare and Medicaid Services (CMS).
+If you need to download it again you can get it directly from here:
 
 https://data.cms.gov/provider-data/sites/default/files/resources/3b76abb9b6f610373563b5ef08bb0d81_1777163606/Medical-Equipment-Suppliers.csv
 
